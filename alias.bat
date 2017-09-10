@@ -2,7 +2,7 @@
 
 ::--------------------------------------------------------------------
 ::
-::	ALAIS.BAT	ver 1.00
+::	ALAIS.BAT	ver 1.01
 ::
 ::	A tool for quickly writing aliases under Windows
 ::
